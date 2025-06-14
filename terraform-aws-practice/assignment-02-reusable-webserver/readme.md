@@ -8,7 +8,7 @@ In the main Terraform configuration, I kept the networking setup and simply call
 
 Finally, I deployed the setup using terraform apply and verified that the web server was running and accessible. This assignment helped me understand modular design in Terraform and how it improves scalability and maintainability.
 
-# 1. Terraform init
+# 1. Terraform init and plan
 <img width="960" alt="11" src="https://github.com/user-attachments/assets/3c6f36e8-01cb-42a1-b711-9d31b418b94a" />
 
 # 2. Terraform apply

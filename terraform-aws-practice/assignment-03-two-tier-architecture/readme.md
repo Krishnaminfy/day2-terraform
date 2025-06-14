@@ -18,7 +18,7 @@ I deployed an EC2 instance as a web server and an RDS instance as the database. 
 
 This assignment helped me understand network isolation, NAT gateways, and secure multi-tier infrastructure design using Terraform.
 
-# Terraform init
+# Terraform init and plan
 <img width="960" alt="lf" src="https://github.com/user-attachments/assets/dda15e60-d2b4-4806-ac0e-40ef4044ede3" />
 
 # Terraform apply
